@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Udavant</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg">
 
 
 - Hi, I'm Working on **SQL, Python and Power Bi Projects**
