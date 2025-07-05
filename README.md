@@ -12,7 +12,7 @@
 
 - GitHuB ID [https://github.com/SarthakUdavant](https://github.com/SarthakUdavant)
 
-- 💬 Ask me about **SQL, Python ,Power Bi**
+- 💬 Ask me about **SQL, Python, Power Bi**
 
 - 📫 How to reach me **sarthakudavant@gmail.com**
 
