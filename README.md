@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [MY GitHub](MY GitHub)
+- 👨‍💻 All of my projects are available at MY GitHub
 
-- GitHuB ID [https://github.com/SarthakUdavant](https://github.com/SarthakUdavant)
+- ✉️GitHub ID [https://github.com/SarthakUdavant](https://github.com/SarthakUdavant)
 
 - 💬 Ask me about **SQL, Python, Power Bi**
 
-- 📫 How to reach me **sarthakudavant@gmail.com**
+- 🪪 How to reach me **sarthakudavant@gmail.com**
 
-- Linkedin ID [https://www.linkedin.com/in/sarthak-udavant-005939254](https://www.linkedin.com/in/sarthak-udavant-005939254)
+- 🆔 Linkedin ID [https://www.linkedin.com/in/sarthak-udavant-005939254](https://www.linkedin.com/in/sarthak-udavant-005939254)
 
 - ⚡ Fun Fact about me **I HATE CODING 😉**
 
